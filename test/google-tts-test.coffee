@@ -3,7 +3,7 @@ sinon = require 'sinon'
 chai = require 'chai'
 
 expect = chai.expect
-Promise= require('bluebird')
+Promise = require('bluebird')
 
 helper = new Helper('../src/google-tts.coffee')
 
@@ -21,4 +21,3 @@ describe 'google-tts', ->
         ['alice', '@hubot say hello en']
         ['hubot', '@alice https://translate.google.com/translate_tts?ie=UTF-8&q=hello&tl=en&total=1&idx=0&textlen=5&tk=975824.568916&client=t&prev=input&ttsspeed=1']
       ]
-

@@ -1,4 +1,4 @@
-# hubot-google-tts [![Build Status](https://img.shields.io/travis/catops/hubot-google-tts.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/hashashin/hubot-google-tts) [![npm](https://img.shields.io/npm/v/hubot-google-tts.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/hubot-google-tts)
+# hubot-google-tts [![Build Status](https://img.shields.io/travis/hashashin/hubot-google-tts.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/hashashin/hubot-google-tts) [![npm](https://img.shields.io/npm/v/hubot-google-tts.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/hubot-google-tts)
 
 Makes hubot talk
 
