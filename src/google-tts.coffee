@@ -21,7 +21,7 @@ module.exports = (robot) ->
             robot.logger.error error
           robot.logger.debug response
       else
-        msg.reply url
+        msg.send url
       return
     ).catch (err) ->
       robot.logger.error err.stack
